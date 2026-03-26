@@ -39,7 +39,7 @@ A powerful selfbot to clone entire Discord servers – including channels, roles
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/discord-server-cloner.git
+   git clone https://github.com/mangooooo457/Discord-Server-Cloner.git
    cd discord-server-cloner
 
 credit Goes to @ur_daddy619(discord username dm for more stuffs )
